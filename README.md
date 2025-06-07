@@ -2,7 +2,7 @@
 
 Naptiapt is a web-based automatic theorem prover that uses Prolog for logical reasoning. It provides an intuitive interface for defining axioms, rules, and facts, then attempts to prove theorems using logical inference.
 
-![Naptiapt Screenshot](screenshots/screenshot.png)
+![Naptiapt Screenshot]([screenshots/screenshot.png](https://raw.githubusercontent.com/jero98772/Naptiapt/refs/heads/main/screenshot/screenshot.png))
 
 ## Features
 
